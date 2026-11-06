@@ -487,7 +487,7 @@ so it's fine if the text appears inside of a hashtag.
 > "When my coworker was calmly telling me how her son looked up conspiracy theories about Coronavirus https://t.co/ECLv7xsR0z"
 > "I’ll make this my wallpaper for the whole year idc idc https://t.co/b3EMvzwUhB"
 > "En Iran dicen que si te frotas aceite en el culo, te curas del coronavirus!!\nDe nada"
-i"Rare W from the juice. #CoronavirusPandemic"
+> "Rare W from the juice. #CoronavirusPandemic"
 > "Todavía no me he pronunciado porque las cosas han cambiado mucho en estos días. Pero sí, en California estamos tamb… https://t.co/kVNIH3JlkT"
 > "Keeping everyone safe with some common sense #coronavirus #covid19 #savvy109 @ Los Angeles, California https://t.co/gv4Y1P559Q"
 > "💀"
